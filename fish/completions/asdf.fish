@@ -1,0 +1,1 @@
+/home/darlan/.asdf/completions/asdf.fish
